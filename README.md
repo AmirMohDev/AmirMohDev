@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Amirmohammad</h1>
-<h3 align="center">Frontend Developer | React | JavaScript | Next</h3>
+<h3 align="center">Frontend Developer | JavaScript | React </h3>
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
 
@@ -45,10 +45,10 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-samavat/">
+  <a href="https://www.linkedin.com/in/Amirmohammad Akbary/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:alisamavat.dev@gmail.com">
+  <a href="mailto:contact.amir.51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
