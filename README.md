@@ -4,7 +4,7 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
     alt="Neon Bar"
-    width="400"
+    width="100%"
     style="margin-top: 15px; border-radius: 10px; box-shadow: 0 0 25px rgba(255, 0, 255, 0.5);"
   />
 
