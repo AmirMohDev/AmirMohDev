@@ -13,7 +13,7 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" 
     alt="Coding Pixel Art" 
-    width="600" 
+    width="100%" 
     style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.6);"
   />
   <br/>
