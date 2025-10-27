@@ -1,12 +1,21 @@
-<h1 align="center">👋 Hi, I'm Amirmohammad</h1>
-<h3 align="center">Frontend Developer | JavaScript | React</h3>
+<h1 align="center" style="color:#00FFFF;">👋 Hi, I'm Amirmohammad</h1>
+<h3 align="center" style="color:#C0C0C0;">Frontend Developer | JavaScript | React</h3>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
+  <!-- گیف اصلی -->
   <img 
     src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" 
     alt="Coding Pixel Art" 
     width="600" 
-    style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.4); margin-top: 20px;"
+    style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.6);"
+  />
+  <br/>
+  <!-- نوار زیر تصویر -->
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+    alt="Neon Bar"
+    width="400"
+    style="margin-top: 15px; border-radius: 10px; box-shadow: 0 0 25px rgba(255, 0, 255, 0.5);"
   />
 </div>
 
@@ -14,10 +23,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on cutting-edge React projects  
-- 🌱 Learning **Advanced React Patterns** and **Web Performance**  
-- 💡 Passionate about clean code and pixel-perfect UIs  
-- 📫 How to reach me: [contact.amir.51@gmail.com](mailto:contact.amir.51@gmail.com)
+✨ I’m a passionate **Frontend Developer** who loves bringing creative ideas to life through clean, modern code.  
+💡 Currently diving deeper into **Advanced React Patterns**, **UI/UX optimization**, and **Web Performance**.  
+🧠 Always learning, improving, and building something new.  
+📫 Reach me at: [contact.amir.51@gmail.com](mailto:contact.amir.51@gmail.com)
 
 ---
 
@@ -52,15 +61,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/AmirmohammadAkbary/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:contact.amir.51@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-FF3E30?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Building+beautiful+frontend+experiences;Writing+clean+and+modern+React+code;Learning+and+growing+every+day!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences;Designing+clean+React+UI;Learning+and+growing+every+day!" 
+    alt="Typing SVG" 
+  />
 </p>
