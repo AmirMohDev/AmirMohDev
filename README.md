@@ -1,12 +1,13 @@
 <h1 align="center" style="color:#00FFFF;">👋 Hi, I'm Amirmohammad</h1>
-<h3 align="center" style="color:#C0C0C0;">Frontend Developer | JavaScript | React</h3>
-  <!-- گیف اصلی -->
-  <img 
+ <img 
     src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
     alt="Neon Bar"
     width="100%"
     style="margin-top: 15px; border-radius: 10px; box-shadow: 0 0 25px rgba(255, 0, 255, 0.5);"
   />
+<h3 align="center" style="color:#C0C0C0;">Frontend Developer | JavaScript | React</h3>
+  <!-- گیف اصلی -->
+ 
 
 <div align="center" style="margin-top: 20px;">
   <img 
