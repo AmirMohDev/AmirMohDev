@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Amirmohammad</h1>
 <h3 align="center">Frontend Developer | JavaScript | React </h3>
 
-<img width="100%" src="[https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1ODkwNjIsIm5iZiI6MTc2MTU4ODc2MiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI3VDE4MTI0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlN2ZjNTIwYjY2NDk4YTNiNDMyZTRlODQ5ZTVkMzlmNzJhZTU5ZjYyOTU3ZjBmYzM4M2E0NjQzZDFiNTdkM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CSUg_zJydQcpxL1AkCedDg6bU4WD1SrpLMn72TjL2eA)" alt="divider" />
+
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1ODkwNjIsIm5iZiI6MTc2MTU4ODc2MiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI3VDE4MTI0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlN2ZjNTIwYjY2NDk4YTNiNDMyZTRlODQ5ZTVkMzlmNzJhZTU5ZjYyOTU3ZjBmYzM4M2E0NjQzZDFiNTdkM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CSUg_zJydQcpxL1AkCedDg6bU4WD1SrpLMn72TjL2eA)" width="500"/>
 </div>
 
 ## 🚀 About Me
