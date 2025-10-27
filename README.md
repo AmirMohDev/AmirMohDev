@@ -61,7 +61,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/AmirmohammadAkbary/" target="_blank">
+  <a href="https://www.linkedin.com/in/amirmohammad-akbari-53473835a/?originalSubdomain=ir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:contact.amir.51@gmail.com">
