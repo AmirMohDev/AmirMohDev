@@ -4,6 +4,12 @@
 <div align="center" style="margin-top: 20px;">
   <!-- گیف اصلی -->
   <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+    alt="Neon Bar"
+    width="400"
+    style="margin-top: 15px; border-radius: 10px; box-shadow: 0 0 25px rgba(255, 0, 255, 0.5);"
+  />
+  <img 
     src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" 
     alt="Coding Pixel Art" 
     width="600" 
@@ -11,12 +17,6 @@
   />
   <br/>
   <!-- نوار زیر تصویر -->
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-    alt="Neon Bar"
-    width="400"
-    style="margin-top: 15px; border-radius: 10px; box-shadow: 0 0 25px rgba(255, 0, 255, 0.5);"
-  />
 </div>
 
 ---
